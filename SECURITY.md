@@ -12,4 +12,4 @@ The e-mail address to use to contact the Pivotal Application Security Team is **
 
 Please note that the e-mail address above should only be used for reporting undisclosed security vulnerabilities in Pivotal products and managing the process of fixing such vulnerabilities. We cannot accept regular bug reports or other security related queries at this address.
 
-If you wish to send encrypted email, our public key can be obtained from a public key server such as pgp.mit.edu. The fingerprint is: 2F28 8814 5F37 5811 17D9 FDCF 7CC5 2A57 8296 871B
+If you wish to send encrypted email, our public key can be obtained from a public key server such as keys.openpgp.org. The fingerprint is: 2F28 8814 5F37 5811 17D9 FDCF 7CC5 2A57 8296 871B
