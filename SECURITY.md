@@ -6,7 +6,7 @@ The VMware Security Response Centre Team provides a single point of contact for 
 
 We strongly encourage people to report security vulnerabilities privately to our security team before disclosing them in a public forum.
 
-The e-mail address to use to contact the team is **security@Vmware.com**.
+The e-mail address to use to contact the team is **security@vmware.com**.
 
 Please note that the e-mail address above should only be used for reporting undisclosed security vulnerabilities in Pivotal(now part of VMware) products and managing the process of fixing such vulnerabilities. We cannot accept regular bug reports or other security related queries at this address.
 
